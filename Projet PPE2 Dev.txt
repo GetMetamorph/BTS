@@ -1,0 +1,26 @@
+Cahier des charges
+    Gant (Gestion du temps et ressources)
+    Mockup/Maquette/Proto.
+    Structuration de la BDD (MCD & diagramme de classe)
+    UML du projet (Diagramme de cas d'utilisation - diagramme de séquence)
+    Le lien du git ( en public )
+A presenter pour vendredi
+
+Projet doit contenir
+   systeme d'authentification,
+   Inscription et connection
+   Mise en place d'un crud
+   Upload d'une ressource asset ( image, vidéo... stocké sur notre serveur )
+   sécurité à mettre en place coté client et serveur ( Au niveau des requêtes )
+   Mise en place d'un trigger ou d'une procédure stocké
+   Documentation total du code
+La totalité du code doit être mise sur github
+
+Sujet:
+
+   UberEat :
+Faire uberEat en format web
+Pouvoir commander un plat comme sur uber eat avoir une liste de restaurant 
+Seulement le coté client
+Commander un plat, avoir la facture 
+exactement comme sur uberEat web sauf sans la partie livraison
