@@ -1,0 +1,5 @@
+UberEat:
+Crud lier à :
+	L'inscription des utilisateur gestion de leur profil,
+	Historique de leurs commandes.
+	Prendre une commande / la modifier avant de la valider / une fois la commande pouvoir l'annulée
